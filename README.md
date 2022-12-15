@@ -1,3 +1,20 @@
+*Мой прогресс за 100 дней с полного нуля:*
+- освоены основы Pytnon
+- пройден курс Балакирева на stepik по Python'у
+- освоены азы ООП
+- начальная работа с git
+- введение в SQL
+- азы HTML и CSS
+- азы Django
+- азы regexp
+- азы работы в IDE PyCharm (горячие клавиши, функционал, дебагер)
+___
+[![codewars](https://www.codewars.com/users/Harlok/badges/large)](https://www.codewars.com/users/Harlok)
+___
+*Мой прогресс за 50 дней с полного нуля:*
+- освоены азы синтаксиса Python
+- пройден курс по Python на Letpy
+
 
 https://stepik.org/users/561315534
 <!--
