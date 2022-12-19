@@ -9,7 +9,8 @@
 - азы regexp
 - азы работы в IDE PyCharm (горячие клавиши, функционал, дебагер)
 ___
-[![codewars](https://www.codewars.com/users/Harlok/badges/large)](https://www.codewars.com/users/Harlok)
+[![codewars](https://www.codewars.com/users/Harlok/badges/large)](https://www.codewars.com/users/Harlok)\
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=harlok13&theme=dark)](https://leetcode.com/harlok13/)
 ___
 *Мой прогресс за 50 дней с полного нуля:*
 - освоены азы синтаксиса Python
