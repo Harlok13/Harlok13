@@ -3,7 +3,13 @@ ___
 [![codewars](https://www.codewars.com/users/Harlok/badges/large)](https://www.codewars.com/users/Harlok)
 ___
 
+<details>
+<summary><b> Current Project</b></summary>
 
+
+[![Julia Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Harlok13&repo=Julia)](https://github.com/Harlok13/Julia)
+
+</details>
 
 https://stepik.org/users/561315534
 <!--
