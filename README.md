@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/user/26ec244d-ad2d-48d6-9f09-32c4907a34f6.svg)](https://wakatime.com/@26ec244d-ad2d-48d6-9f09-32c4907a34f6)
 ___
 [![codewars](https://www.codewars.com/users/Harlok/badges/large)](https://www.codewars.com/users/Harlok)
 ___
