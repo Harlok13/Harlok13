@@ -7,7 +7,7 @@ ___
 <summary><b> Current Project</b></summary>
 
 
-[![Julia Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Harlok13&repo=Julia)](https://github.com/Harlok13/Julia)
+[![Crygeen Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Harlok13&repo=Crygeen)](https://github.com/Harlok13/Crygeen)
 
 </details>
 
