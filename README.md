@@ -9,9 +9,9 @@ This program demonstrates a simple game menu using the Pygame library.
 The menu is composed of several buttons with different hover effects.
 When a button is hovered over, it fades in and when the mouse is moved
 away, it fades out. The program is also able to play/background music
-during menu animation.
+during menu animation.\
 
-<img alt="settings.png" src="img%2Fsettings.png" width="100"/>
+<img alt="settings.png" src="img%2Fsettings.png" width="250"/>
 
 [![Crygeen Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Harlok13&repo=Crygeen)](https://github.com/Harlok13/Crygeen)
 
